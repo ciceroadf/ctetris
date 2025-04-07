@@ -67,7 +67,8 @@ This will produce an executable called `ctetris`.
 
 ## 🖼️ Screenshots
 
-*(Add screenshots or a gif here)*
+![image](https://github.com/user-attachments/assets/c20331ed-d0bb-4cd6-8b3a-3892217c9bd2)
+
 
 ## 📁 Project Structure
 
