@@ -47,12 +47,12 @@ cd ctetris
 gcc tetris.c game.c -o tetris -lSDL2
 ```
 
-This will produce an executable called `ctetris`.
+This will produce an executable called `tetris`.
 
 ## 🚀 Run the Game
 
 ```bash
-./ctetris
+./tetris
 ```
 
 ## 🎮 Controls
